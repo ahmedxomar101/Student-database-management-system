@@ -15,7 +15,7 @@ In this project, you can do the following:
 6. Delete the database
 
 ## Screenshots
-Kindly, check the [screenshots folder]() to get an overview about the software.
+Kindly, check the [screenshots folder](https://github.com/AhMeDxHaMiDo/Student-database-management-system/tree/master/screenshots) to get an overview about the software.
 
 ## Instructions
 
@@ -38,3 +38,5 @@ Kindly, check the [screenshots folder]() to get an overview about the software.
       * `pip install pyinstaller`
   2. Run the command:
       * `pyinstaller --onefile --windowed frontend.py`
+
+* [**The Standalone App for that Project**](https://github.com/AhMeDxHaMiDo/Student-database-management-system/blob/master/frontend.exe)
