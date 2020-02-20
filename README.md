@@ -2,6 +2,16 @@
 
 A simple **GUI project** made with **tkinter** and **sqlite3** for **Students Database Management System**. 
 
+## Table of Content
+
+1. [Introduction](#introduction)
+2. [Screenshots](#screenshots)
+3. [Instructions](#instructions)
+   1. [Requirements](#requirements)
+   2. [Execution](#execution)
+   3. [Standalone App](#standalone-app)
+
+## Introduction
 In this project, you can do the following:
 1. Add new student.
 2. Update a specific student.
